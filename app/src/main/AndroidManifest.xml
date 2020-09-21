@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".M2107Activity"></activity>
+        <activity android:name=".M2417Activity2"></activity>
+        <activity android:name=".M2115Activity"></activity>
+        <activity android:name=".M2207Activity"></activity>
+        <activity android:name=".M2118Activity"></activity>
+        <activity android:name=".M2101Activity"></activity>
+        <activity android:name=".M2201Activity"></activity>
+        <activity android:name=".M2219Activity"></activity>
+        <activity android:name=".M2410Activity"></activity>
+        <activity android:name=".M2404Activity"></activity>
+        <activity android:name=".M2300Activity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
