@@ -9,6 +9,7 @@
         android:roundIcon="@drawable/icecream"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".M2101Activity"></activity>
         <activity android:name=".M2201Activity"></activity>
         <activity android:name=".M2219Activity"></activity>
         <activity android:name=".M2410Activity"></activity>
