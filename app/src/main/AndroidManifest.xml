@@ -9,7 +9,9 @@
         android:roundIcon="@drawable/icecream"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".M2118Activity"></activity>
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".MainJavaActivity" />
+        <activity android:name=".M2118Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
